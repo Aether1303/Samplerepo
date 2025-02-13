@@ -1,6 +1,6 @@
 print('hello world')
 
-
+print('program')
 
 
 
@@ -8,8 +8,7 @@ print('hello world')
 
 
 # u -run track
-
-
-
-
+# a-stage
+# git init
+# git add -A
 
