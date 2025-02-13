@@ -11,4 +11,5 @@ print('program')
 # a-stage
 # git init
 # git add -A
-
+# git status
+# git commit -m '2 commit'
